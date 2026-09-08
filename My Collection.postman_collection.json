@@ -115,7 +115,7 @@
           }
         },
         "url": {
-          "raw": "https://reqres.in/api/users/{{userId}}",
+          "raw": "https://reqres.in/api/users/{{staticUserId}}",
           "protocol": "https",
           "host": [
             "reqres",
@@ -124,7 +124,7 @@
           "path": [
             "api",
             "users",
-            "{{userId}}"
+            "{{staticUserId}}"
           ]
         }
       },
@@ -172,7 +172,7 @@
           }
         },
         "url": {
-          "raw": "https://reqres.in/api/users/{{userId}}",
+          "raw": "https://reqres.in/api/users/{{staticUserId}}",
           "protocol": "https",
           "host": [
             "reqres",
@@ -181,7 +181,7 @@
           "path": [
             "api",
             "users",
-            "{{userId}}"
+            "{{staticUserId}}"
           ]
         }
       },
@@ -215,7 +215,7 @@
           }
         ],
         "url": {
-          "raw": "https://reqres.in/api/users/{{userI}}",
+          "raw": "https://reqres.in/api/users/{{staticUserId}}",
           "protocol": "https",
           "host": [
             "reqres",
@@ -224,7 +224,7 @@
           "path": [
             "api",
             "users",
-            "{{userI}}"
+            "{{staticUserId}}"
           ]
         }
       },
